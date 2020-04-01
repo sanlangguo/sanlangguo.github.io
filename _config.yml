@@ -4,8 +4,7 @@ SEOTitle: 三郎过的博客 | Blog
 header-img: img/home-bg.jpg
 email: 781611283@qq.com
 description: "不断去学习,去拓展自己的视野,用心感受这个世界。"
-keyword: "三郎过, @SanLangGuo, 黄玄的博客, SanLangGuo Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端 "
-url: "https://huangxuan.me"              # your host, for absolute URL
+keyword: "三郎过, @SanLangGuo, 黄玄的博客, SanLangGuo Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端 "          # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +12,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+weibo_username:     三郎过
+zhihu_username:     三郎过
+github_username:    sanlangguo
 
 
 
@@ -72,14 +68,14 @@ netease_comment: false
 
 # Google Analytics
 # ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-# ga_domain: SanLangGuo.me
+ga_domain: auto
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/post-sanlangguo.jpg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
