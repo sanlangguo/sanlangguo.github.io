@@ -1,19 +1,19 @@
 # Site settings
-title: SanLangGuo
+title: 三郎过
 SEOTitle: 三郎过的博客 | Blog
 header-img: img/home-bg.jpg
 email: 781611283@qq.com
 description: "不断去学习,去拓展自己的视野,用心感受这个世界。"
 keyword: "三郎过, @SanLangGuo, 黄玄的博客, SanLangGuo Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端 "          # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-weibo_username:     三郎过
-zhihu_username:     三郎过
+weibo_username:     u/5243311782?is_all=1
+zhihu_username:     chen-zong-qiang-53
 github_username:    sanlangguo
 
 
